@@ -39,7 +39,7 @@ export default function Home() {
 
       {/* Features Section */}
       <section className="features">
-        <h2>What You'll Find Here</h2>
+        <h2>What You&apos;ll Find Here</h2>
         <div className="features-grid">
           <div className="feature-card">
             <h3>Next.js Tutorials</h3>
